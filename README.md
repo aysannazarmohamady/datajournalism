@@ -1,4 +1,4 @@
-# Data Journalism** by Aysan Nazarmohammadi
+# **Data Journalism** by Aysan Nazarmohammadi
 **«برای همۀ علاقه‌مندان به نوشتن، روزنامه‌نگاری، علم داده و علوم کامپیوتر»**
 
 مقدمه
