@@ -1,4 +1,4 @@
-# **The Story of Storytelling with data** by Aysan Nazarmohammadi
+# **"The Story of Storytelling with data"** by Aysan Nazarmohammadi
 **«برای همۀ علاقه‌مندان به نوشتن، روزنامه‌نگاری، علم داده و علوم کامپیوتر»**
 
 مقدمه
