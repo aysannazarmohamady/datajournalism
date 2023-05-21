@@ -1,4 +1,4 @@
-# **"The Story that Data Tells"** by Aysan Nazarmohammadi
+# **"The Story That Data Tells"** by Aysan Nazarmohammadi
 **«برای همۀ علاقه‌مندان به نوشتن، روزنامه‌نگاری، علم داده و علوم کامپیوتر»**
 
 مقدمه
