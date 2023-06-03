@@ -58,4 +58,4 @@
 منابع:
 1. datajournalism.com/read/longreads/the-history-of-data-journalism
 2. pinardag-1.gitbook.io/datajournalism/3.what-is-data-journalism-origins-of-data-journalism
-3. ca.indeed.com/career-advice/career-development/data-journalist#:~:text=Even%20though%20data%20is%20a,vocabulary%2C%20storytelling%2C%20and%20structure.
+3. ca.indeed.com/career-advice/career-development/data-journalist
